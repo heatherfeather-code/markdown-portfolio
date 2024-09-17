@@ -8,7 +8,7 @@ Hi I am Heather, a graphic designer with a passion for programming and accessibl
 ## About me
 
 
-I completed my Honours Bachelor of Arts in _Art and Art History_ at both University of Toronto and Sheridan College co-currently. 
+I completed my Honours Bachelor of Arts in _Art and Art History_ at the University of Toronto and Sheridan College co-currently. 
 
 I focused on design for my art component of my degree, and I have since become interested in creating accessible designs, that are visually pleasing. 
 
