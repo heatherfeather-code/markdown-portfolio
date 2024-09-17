@@ -4,6 +4,6 @@
  this is my contact page
 
 ----
-[Home](markdown-portfolio/index.markdown)
-[Projects](/projects.markdown)
-[Contact](/contact.markdown)
+[Home](/markdown-portfolio/)
+[Projects](projects.markdown)
+[Contact](contact.markdown)
