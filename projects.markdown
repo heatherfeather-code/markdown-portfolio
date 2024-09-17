@@ -4,6 +4,6 @@
 My Projects! 
 
 ----
-[Home](/markdown-portfolio/)
-[Projects](projects.markdown)
+[Home](/markdown-portfolio/) |
+[Projects](projects.markdown) |
 [Contact](contact.markdown)
