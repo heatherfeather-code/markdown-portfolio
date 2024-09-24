@@ -1,6 +1,7 @@
 # Heather Boden
 ![Banner image: "Everything happens for a reason"](https://github.com/user-attachments/assets/4992176d-f479-4415-bb21-03bc13f1daaf)
- ----
+
+----
 [Home](/markdown-portfolio/) |
 [Projects](projects.markdown) |
 [Contact](contact.markdown) |
