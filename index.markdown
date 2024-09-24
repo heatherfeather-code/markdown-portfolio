@@ -1,5 +1,8 @@
 # Heather Boden
-
+----
+[Home](/markdown-portfolio/) |
+[Projects](projects.markdown) |
+[Contact](contact.markdown) |
 
 
 Hi I am Heather, a graphic designer with a passion for programming and accessible design. 
@@ -15,7 +18,4 @@ In my free time I enjoy taking walks, reading, and playing video games. I also g
 
  
 
-----
-[Home](/markdown-portfolio/) |
-[Projects](projects.markdown) |
-[Contact](contact.markdown) |
+
