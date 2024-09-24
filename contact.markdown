@@ -1,7 +1,7 @@
 # Contact
  
 
- this is my contact page
+If you need to get in touch with me, feel free to email me!
 email: heather@mail.com
 
 ----
