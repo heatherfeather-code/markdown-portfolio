@@ -2,6 +2,7 @@
  
 
  this is my contact page
+email: heather@mail.com
 
 ----
 [Home](/markdown-portfolio/) |
