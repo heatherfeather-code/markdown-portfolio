@@ -1,5 +1,8 @@
 # Projects
-
+----
+[Home](/markdown-portfolio/) |
+[Projects](projects.markdown) |
+[Contact](contact.markdown) |
 
 Here are some current projects I've been working on
 
@@ -16,7 +19,4 @@ Simple website with a prompt for login, and was created with (HTML, CSS, and Jav
 
 Simple CSS exercise on how to style a page with a limited colour palette (HTML & CSS).
 
-----
-[Home](/markdown-portfolio/) |
-[Projects](projects.markdown) |
-[Contact](contact.markdown) |
+
